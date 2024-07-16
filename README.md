@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=haseeex&show_icons=true&theme=transparent)
 
+
+![奖杯](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Visitor Count](https://profile-counter.glitch.me/haseeex/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeex&layout=compact&theme=tokyonight)
