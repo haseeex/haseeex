@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=haseeex&show_icons=true&theme=transparent)
 
-![Visitor Count](https://profile-3d-contrib/profile-night-green.svg)
+![Visitor Count](https://profile-3d-contrib/haseeex/profile-night-green.svg)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/haseeex/count.svg)
