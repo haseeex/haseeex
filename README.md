@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/haseeex/count.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=haseeex&show_icons=true&theme=transparent)
 
@@ -22,5 +23,3 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haseeex)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haseeex)](https://github.com/haseeex/github-profile-trophy)
-
-![Visitor Count](https://profile-counter.glitch.me/haseeex/count.svg)
