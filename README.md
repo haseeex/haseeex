@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haseeex&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haseeex)](https://github.com/haseeex/github-profile-trophy)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vancatex)](https://github.com/anuraghazra/github-readme-stats)
