@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=haseeex&show_icons=true&theme=transparent)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haseeex&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haseeex)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haseeex)](https://github.com/haseeex/github-profile-trophy)
 
 ![Visitor Count](https://profile-counter.glitch.me/haseeex/count.svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haseeex&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
