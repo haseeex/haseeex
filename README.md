@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haseeex&theme=transparent&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haseeex&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haseeex)](https://github.com/haseeex/github-profile-trophy)
