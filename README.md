@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=haseeex)](https://github.com/haseeex/github-profile-trophy)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vancatex&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cced6ed5-8c53-42f4-95fc-eff84dc461e4&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
