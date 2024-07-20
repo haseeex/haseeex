@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://profile-counter.glitch.me/haseeex/count.svg)
 
+[![wakatime](https://wakatime.com/badge/user/cced6ed5-8c53-42f4-95fc-eff84dc461e4.svg)](https://wakatime.com/@cced6ed5-8c53-42f4-95fc-eff84dc461e4)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cced6ed5-8c53-42f4-95fc-eff84dc461e4&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haseeex&theme=transparent&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans)](https://git.io/streak-stats)
