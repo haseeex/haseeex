@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.svglogos.dev/logos/sqlite.svg?response-content-disposition=attachment%3Bfilename%3Dsqlite.svg" width="32" height="32" style="margin:5px;" />
 <img src="https://cdn.svglogos.dev/logos/mongodb.svg?response-content-disposition=attachment%3Bfilename%3Dmongodb.svg" width="32" height="32" style="margin:5px;" />
 <img src="https://cdn.svglogos.dev/logos/elasticsearch.svg?response-content-disposition=attachment%3Bfilename%3Delasticsearch.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://echarts.apache.org/zh/images/logo.png?_v_=20240226" width="32" height="32" style="margin:5px;" />
 
 ## 工具
 
