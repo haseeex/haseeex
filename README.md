@@ -1,5 +1,3 @@
-## 练习时间时长两年半 ♂ 👋
-
 <!--
 **haseeex/haseeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,18 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/haseeex/count.svg)
+
+## 编程
+
+<img src="https://cdn.svglogos.dev/logos/c-sharp.svg?response-content-disposition=attachment%3Bfilename%3Dc-sharp.svg" width="32" height="32" style="margin:5px;" /><img src="https://cdn.svglogos.dev/logos/java.svg?response-content-disposition=attachment%3Bfilename%3Djava.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/c-plusplus.svg?response-content-disposition=attachment%3Bfilename%3Dc-plusplus.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/gopher.svg?response-content-disposition=attachment%3Bfilename%3Dgopher.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/nodejs-icon.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/typescript-icon-round.svg?response-content-disposition=attachment%3Bfilename%3Dtypescript-icon-round.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/python.svg?response-content-disposition=attachment%3Bfilename%3Dpython.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/html-5.svg?response-content-disposition=attachment%3Bfilename%3Dhtml-5.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/php.svg?response-content-disposition=attachment%3Bfilename%3Dphp.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/lua.svg?response-content-disposition=attachment%3Bfilename%3Dlua.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://preview.redd.it/is-winui-3-a-good-replacement-for-wpf-v0-grawrh97rbsd1.png?width=320&crop=smart&auto=webp&s=05e2cc74ef180f41ad18adaf0712d454071c2f42" width="32" height="32" style="margin:5px;" />
+<img src="https://openautomationsoftware.com/wp-content/uploads/2016/07/What-is-WPF.png" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/dotnet.svg?response-content-disposition=attachment%3Bfilename%3Ddotnet.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/mysql.svg?response-content-disposition=attachment%3Bfilename%3Dmysql.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/sqlite.svg?response-content-disposition=attachment%3Bfilename%3Dsqlite.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/mongodb.svg?response-content-disposition=attachment%3Bfilename%3Dmongodb.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/elasticsearch.svg?response-content-disposition=attachment%3Bfilename%3Delasticsearch.svg" width="32" height="32" style="margin:5px;" />
+
+## 工具
+
+<img src="https://cdn.svglogos.dev/logos/visual-studio.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio.svg" width="32" height="32" style="margin:5px;" /><img src="https://cdn.svglogos.dev/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/jetbrains-icon.svg?response-content-disposition=attachment%3Bfilename%3Djetbrains-icon.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/github-octocat.svg?response-content-disposition=attachment%3Bfilename%3Dgithub-octocat.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cdn.svglogos.dev/logos/gitlab.svg?response-content-disposition=attachment%3Bfilename%3Dgitlab.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://help-assets.codehub.cn/enterprise/guanwang/coding-logo.svg" width="32" height="32" style="margin:5px;" />
+<img src="https://cnb.cool/cnb/-/logos/s" width="32" height="32" style="margin:5px;" />
+<img src="https://about.gitea.com/gitea-text.svg" width="32" height="32" style="margin:5px;" />
 
 [![wakatime](https://wakatime.com/badge/user/cced6ed5-8c53-42f4-95fc-eff84dc461e4.svg)](https://wakatime.com/@cced6ed5-8c53-42f4-95fc-eff84dc461e4)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cced6ed5-8c53-42f4-95fc-eff84dc461e4&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=haseeex&theme=transparent&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseeex&show_icons=true&theme=default&locale=cn)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeex&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haseeex&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=haseeex)](https://github.com/haseeex/github-profile-trophy)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cced6ed5-8c53-42f4-95fc-eff84dc461e4&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
