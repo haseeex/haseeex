@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![wakatime](https://wakatime.com/badge/user/cced6ed5-8c53-42f4-95fc-eff84dc461e4.svg)](https://wakatime.com/@cced6ed5-8c53-42f4-95fc-eff84dc461e4)
+
 ## 编程
 
 <img src="https://cdn.svglogos.dev/logos/c-sharp.svg?response-content-disposition=attachment%3Bfilename%3Dc-sharp.svg" width="32" height="32" style="margin:5px;" /><img src="https://cdn.svglogos.dev/logos/java.svg?response-content-disposition=attachment%3Bfilename%3Djava.svg" width="32" height="32" style="margin:5px;" />
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 <img src="https://help-assets.codehub.cn/enterprise/guanwang/coding-logo.svg" width="32" height="32" style="margin:5px;" />
 <img src="https://cnb.cool/cnb/-/logos/s" width="32" height="32" style="margin:5px;" />
 <img src="https://about.gitea.com/gitea-text.svg" width="32" height="32" style="margin:5px;" />
-
-[![wakatime](https://wakatime.com/badge/user/cced6ed5-8c53-42f4-95fc-eff84dc461e4.svg)](https://wakatime.com/@cced6ed5-8c53-42f4-95fc-eff84dc461e4)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haseeex&theme=transparent&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans)](https://git.io/streak-stats)
 
