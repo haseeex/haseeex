@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/cced6ed5-8c53-42f4-95fc-eff84dc461e4.svg)](https://wakatime.com/@cced6ed5-8c53-42f4-95fc-eff84dc461e4)
 
+![WakaTime Stats](https://wakatime.com/share/@DongZi/5eafeab2-7e74-47a0-9b56-8b8ab8c08a52.svg)
+
+<figure><embed src="https://wakatime.com/share/@DongZi/5840c014-4b9a-4ad8-9c18-ec368a938131.svg"></embed></figure>
+
 ## 编程
 
 <img src="https://cdn.svglogos.dev/logos/c-sharp.svg?response-content-disposition=attachment%3Bfilename%3Dc-sharp.svg" width="32" height="32" style="margin:5px;" /><img src="https://cdn.svglogos.dev/logos/java.svg?response-content-disposition=attachment%3Bfilename%3Djava.svg" width="32" height="32" style="margin:5px;" />
